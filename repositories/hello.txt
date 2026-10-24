@@ -1,2 +1,2 @@
-Hello,China
-Hello,American
+Hello,China。
+Hello,American。
